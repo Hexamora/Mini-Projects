@@ -93,8 +93,8 @@ Semua project di sini dibuat dengan:
 📦 Total Project    : 1 (dan terus bertambah!)
 🐍 Bahasa Utama     : Python
 🔐 Kategori Favorit : Security & Networking
-⏱️  Rata-rata Build  : 1–3 hari per project
-🌱 Mulai Coding     : 2024
+⏱️ Rata-rata Build  : 1–3 hari per project
+🌱 Mulai Coding     : 2020
 ```
 
 ---
