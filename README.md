@@ -70,29 +70,6 @@ Semua project di sini dibuat dengan:
 
 ---
 
-## 🚀 Quick Start
-
-Semua project bisa langsung dijalankan. Cukup ikuti langkah berikut:
-
-```bash
-# 1. Clone repositori ini
-git clone https://github.com/username/mini-projects.git
-
-# 2. Masuk ke folder repositori
-cd mini-projects
-
-# 3. Masuk ke project yang ingin dicoba
-cd waf-detector   # (ganti sesuai project yang dipilih)
-
-# 4. Install dependensi (jika ada)
-pip install -r requirements.txt
-
-# 5. Jalankan!
-python main.py
-```
-
----
-
 ## 🧰 Tech Stack
 
 <div align="center">
