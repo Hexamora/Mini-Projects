@@ -127,16 +127,14 @@ Setiap project di sini punya tujuan sederhana:
 ```
 mini-projects/
 │
-├── 📁 waf-detector/          # 🛡️ WAF Detection Tool
-│   ├── waf_detector.py
-│   ├── README.md
-│   └── requirements.txt
+├── 📁 WAFDetector/          # 🛡️ WAF Detection Tool
+│   ├── main.py
+│   └── README.md
 │
 ├── 📁 [project-berikutnya]/  # 🔄 Coming soon...
 │   └── ...
 │
-├── 📄 README.md              # ← Kamu ada di sini
-└── 📜 LICENSE
+└── 📄 README.md              # ← Kamu ada di sini
 ```
 
 ---
