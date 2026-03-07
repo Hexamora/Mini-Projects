@@ -189,7 +189,7 @@ Punya pertanyaan, saran, atau sekadar ingin ngobrol soal tech?
 ╚═══════════════════════════════════════════╝
 ```
 
-**Kalau repositori ini bermanfaat, jangan lupa klik ⭐ Star ya!!**
+**Kalau repositori ini bermanfaat, jangan lupa klik ⭐ Star ya!**
 
 *Setiap bintang adalah motivasi untuk terus berkarya* 🚀
 
