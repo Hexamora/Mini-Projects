@@ -19,7 +19,7 @@ def detect_waf(url):
         all_headers = str(response.headers) + str(attack_res.headers)
         all_content = response.text + attack_res.text
 
-        # Logika Deteksi Sederhana
+        # Logika deteksi sederhana
         waf_signatures = {
             "Cloudflare": ["cloudflare", "__cfduid", "cf-ray"],
             "Imperva / Incapsula": ["incapsula", "visid_incap", "X-Iinfo"],
